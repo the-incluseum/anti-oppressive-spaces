@@ -7,6 +7,3 @@ This repository contains a set of resources devleoped in conjunction with the pa
 We are currently in the process of developing [a checklist](https://github.com/inclusive-museums/anti-oppressive-spaces/blob/master/checklist.md) to help museum staff ensure that projects remain as inclusive as possible. Other components may include definitions of terms, links to examples, etc.
 
 Have an idea you'd like to add that you don't see here? Submit a pull request!
-
-## How to use this project
-TBD
