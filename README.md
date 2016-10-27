@@ -4,4 +4,6 @@ Does your sign-up form reinforce binary notions of gender? Does your latest web 
 
 This repository contains a set of resources devleoped in conjunction with the panel _Creating Anti-Oppressive Spaces Online_ at the [2016 meeting of the Museum Computer Network](http://conference.mcn.edu/2016/index.cfm).
 
+We are currently in the process of developing [a checklist](checklist) to help museum staff ensure that projects remain as inclusive as possible. Other components may include definitions of terms, links to examples, etc.
+
 Have an idea you'd like to add that you don't see here? Submit a pull request!
