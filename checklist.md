@@ -12,12 +12,13 @@ included below.
   in another country looking at content that might be considered
   restricted in their country of origin - gay rights, political content,
   etc).
-- Do you have a clear idea of why you're collecting each piece of
-  data? Is that intention conveyed to users?
+- Why are you collecting each piece of data? Is your intention conveyed to users?
 - If you collect comments that will be made public, do you have
   guidelines for discourse in place?
 - Do icons, photos, etc. assume things about gender or race of users?
-- Have you been sure not to make business decisions based on existing analytics? Do you have a
+- Have you staged any photos that inaccurately reflect the diversity
+  of your visitorship or staff?
+- Have you been sure not to make business decisions based solely on existing analytics? Do you have a
   clear plan on how to measure the business decisions you've made,
   through analytics or otherwise?
 - What modes of communication do your teams use? Is that working for everyone?
@@ -29,7 +30,8 @@ included below.
 
 # Details
 
-## Collect all user data in changeable, free-form text fields
+## Are your sign-up forms respectful of people outside the norms of names, gender, sexuality, relationships and ethnicity?
+**Collect all user data in changeable, free-form text fields**
 Limited lists of values for fields like name, gender, ethnicity and more
 don't often work in real
 life. [W3C](https://www.w3.org/International/questions/qa-personal-names)
@@ -48,7 +50,7 @@ we can change the way we think about them over the course of our
 lives.
 
 ![Screen capture of a radio list form field labeled 'Gender.' The only
- two options are 'Male' and 'Female.' Neither value is selected and an
+ two options are 'Male' and 'Female.' Neither value is selected and a
 bright red alert appears that says 'Gender is
  required.'](images/gender-rdio.png) ![Screen capture of a text form field labeled 'Your gender.'](images/gender-diaspora.png)
 
@@ -56,16 +58,25 @@ For more info, read this great [Model View
 Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
 piece.
 
-## Be clear on why we're collecting each piece of data and what we’re doing with it
+## What data are you collecting? Do you really need to be collecting it? Does the project respect the privacy of users?
+**Be clear on why you're collecting each piece of data and what you’re
+doing with it**
+Privacy of users in particularly important for online visitors in
+another country looking at content that might be considered restricted
+in their country of origin - gay rights, political content, etc).
 
-## Establish guidelines for discourse on-line
+## Why are you collecting each piece of data? Is your intention conveyed to users?
+
+## If you collect comments that will be made public, do you have guidelines for discourse in place?
+**Establish guidelines for discourse on-line**
 See the [Contributor Covenant](http://contributor-covenant.org), [The
 Universal Rules of Civilized
 Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/),
 and a good example of a Code of Conduct by [Hypatia Software
 Organization](http://hypatiasoftware.org/code-of-conduct/).
 
-## Non-gendered, non-raced user icons
+## Do icons, photos, etc. assume things about gender or race of users?
+**Non-gendered, non-raced user icons**
 Here are some good examples from Twitter, iPhone, Slack, Flickr and Wordpress:
 
 ![Screen capture of a Twitter user photo that hasn't been set yet. It
@@ -74,28 +85,36 @@ Here are some good examples from Twitter, iPhone, Slack, Flickr and Wordpress:
  set for it. It defaults to a grey circle with the users initials in
  white text.](images/iphone-initials.png) ![Screen capture of a Slack user's icon that doesn't have an image
  set for it. Defaults to a close-up of the center of their icon done
- in different colors](images/slack-hash.png) ![Screen capture of a Flickr user's icon that doesn't have an image
+ in different colors.](images/slack-hash.png) ![Screen capture of a Flickr user's icon that doesn't have an image
  set for it. Defaults to an illustration of a different type
-of camera done in different colors](images/flickr-camera.png) ![Screen capture of a Wordpress user's icon that doesn't have an image
+of camera done in different colors.](images/flickr-camera.png) ![Screen capture of a Wordpress user's icon that doesn't have an image
  set for it. Defaults to a symmetrical, geometrical pattern of
 polygons done in a different bright color for each user.](images/wordpress-geometrics.png)
 
-## Don't stage false diverse photographs
+## Have you staged any photos that inaccurately reflect the diversity of your visitorship or staff?
+**Don't stage false diverse photographs**
 
 ![Screen capture of the homepage of NOMA's online
- shop](images/noma-shop.png)
+ shop. Seven figures are seen looking at items in the shop, with a
+ Black woman featured prominently in the center of the image.](images/noma-shop.png)
 
 Inspiration porn of images of people with disabilities in museums also
 falls into this category.
 
-## Using analytics: Decide, act, measure vs. measure, decide, act
+## Have you been sure not to make business decisions based solely on existing analytics? Do you have a clear plan on how to measure the business decisions you've made, through analytics or otherwise?
+**When using analytics: Decide, then act, then measure. Don't measure,
+then decide, then act.**
 
-## Consider and critique modes of communication: face-to-face, e-mail
+## What modes of communication do your teams use? Is that working for everyone?
+**Consider and critique modes of communication: face-to-face, e-mail**
 
-## Implement Universal Design and Learning
+## Is the project accessible to older people, younger people, people without disabilities, and people with disabilities?
+**Implement Universal Design and Learning**
 
-## Check the readability grade level of your text
+## Is all the writing, including curatorial content, at an accessible reading level?
+**Check the readability grade level of your text**
 Use services like [this one](https://readability-score.com/) to see
 what grade level is of the text in your project. Is all above a high
 school reading level? Is that ok?
 
+## Who’s not part of your design process? Why?
