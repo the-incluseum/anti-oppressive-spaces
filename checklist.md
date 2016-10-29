@@ -38,33 +38,19 @@ Organization](http://hypatiasoftware.org/code-of-conduct/).
 ## Be clear on why we're collecting each piece of data and what we’re doing with it
 
 ## Non-gendered, non-raced user icons
-Some good examples are Twitter's egg:
+Here are some good examples from Twitter, iPhone, Slack, Flickr and Wordpress:
 
 ![Screen capture of a Twitter user photo that hasn't been set yet. It
- defaults to a white sillouette of an egg over a bright colored background.](images/twitter-egg.png)
-
-iPhone's initials icons:
-
-![Screen capture of an iPhone contact photo that doesn't have an image
+ defaults to a white sillouette of an egg over a bright colored
+ background.](images/twitter-egg.png) ![Screen capture of an iPhone contact photo that doesn't have an image
  set for it. It defaults to a grey circle with the users initials in
- white text.](images/iphone-initials.png)
-
-Slack's hash default user icon--a close-up of the center of their icon done in different colors:
-
-![Screen capture of a Slack user's icon that doesn't have an image
- set for it.](images/slack-hash.png)
-
-Flickr's camera default user icon--an illustration of a different type
-of camera done in different colors:
-
-![Screen capture of a Flickr user's icon that doesn't have an image
- set for it.](images/flickr-camera.png)
-
-Wordpress's default user icon--a symetrical, geometrical pattern of
-polygons done in a different bright color for each user:
-
-![Screen capture of a Wordpress user's icon that doesn't have an image
- set for it.](images/wordpress-geometrics.png)
+ white text.](images/iphone-initials.png) ![Screen capture of a Slack user's icon that doesn't have an image
+ set for it. Defaults to a close-up of the center of their icon done
+ in different colors](images/slack-hash.png) ![Screen capture of a Flickr user's icon that doesn't have an image
+ set for it. Defaults to an illustration of a different type
+of camera done in different colors](images/flickr-camera.png) ![Screen capture of a Wordpress user's icon that doesn't have an image
+ set for it. Defaults to a symetrical, geometrical pattern of
+polygons done in a different bright color for each user.](images/wordpress-geometrics.png)
 
 ## Don't stage false diverse photographs
 
