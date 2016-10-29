@@ -1,6 +1,6 @@
 # Practices
 
-### Collect all user data in changeable, free-form text fields
+## Collect all user data in changeable, free-form text fields
 Limited lists of values for fields like name, gender, ethnicity and more
 don't often work in real
 life. [W3C](https://www.w3.org/International/questions/qa-personal-names)
@@ -28,16 +28,16 @@ For more info, read this great [Model View
 Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
 piece.
 
-### Establish guidelines for discourse on-line
+## Establish guidelines for discourse on-line
 See the [Contributor Covenant](http://contributor-covenant.org), [The
 Universal Rules of Civilized
 Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/),
 and a good example of a Code of Conduct by [Hypatia Software
 Organization](http://hypatiasoftware.org/code-of-conduct/).
 
-### Be clear on why we're collecting each piece of data and what we’re doing with it
+## Be clear on why we're collecting each piece of data and what we’re doing with it
 
-### Non-gendered, non-raced user icons
+## Non-gendered, non-raced user icons
 Some good examples are Twitter's egg:
 
 ![Screen capture of a Twitter user photo that hasn't been set yet. It
@@ -66,7 +66,7 @@ polygons done in a different bright color for each user:
 ![Screen capture of a Wordpress user's icon that doesn't have an image
  set for it.](images/wordpress-geometrics.png)
 
-### Don't stage false diverse photographs
+## Don't stage false diverse photographs
 
 ![Screenshot of the homepage of NOMA's online
  shop](images/noma-shop.png)
@@ -74,11 +74,11 @@ polygons done in a different bright color for each user:
 Inspiration porn of images of people with disabilities in museums also
 falls into this category.
 
-### Using analytics: Decide, act, measure vs. measure, decide, act
+## Using analytics: Decide, act, measure vs. measure, decide, act
 
-### Consider and critique modes of communication: face-to-face, e-mail
+## Consider and critique modes of communication: face-to-face, e-mail
 
-### Implement Universal Design and Learning
+## Implement Universal Design and Learning
 
 # Exercises
 
