@@ -7,12 +7,9 @@ included below.
 
 - Are your sign-up forms respectful of people outside the norms of
   names, gender, sexuality, relationships and ethnicity?
-- What data are you collecting? Do you really need to be collecting
-  it? Does the project respect the privacy of users (ex: online visitors
-  in another country looking at content that might be considered
-  restricted in their country of origin - gay rights, political content,
-  etc).
-- Why are you collecting each piece of data? Is your intention conveyed to users?
+- What data are you collecting? Why are you collecting each piece of
+  data? Is your intention conveyed to users? Does the project respect
+  the privacy of users?
 - If you collect comments that will be made public, do you have
   guidelines for discourse in place?
 - Do icons, photos, etc. assume things about gender or race of users?
@@ -60,7 +57,7 @@ For more info, read this great [Model View
 Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
 piece.
 
-## What data are you collecting? Do you really need to be collecting it? Does the project respect the privacy of users?
+## What data are you collecting? Why are you collecting each piece of data? Is your intention conveyed to users? Does the project respect the privacy of users?
 
 **Be clear on why you're collecting each piece of data and what you’re
 doing with it**
@@ -68,8 +65,6 @@ doing with it**
 Privacy of users in particularly important for online visitors in
 another country looking at content that might be considered restricted
 in their country of origin - gay rights, political content, etc).
-
-## Why are you collecting each piece of data? Is your intention conveyed to users?
 
 ## If you collect comments that will be made public, do you have guidelines for discourse in place?
 
