@@ -5,10 +5,26 @@ Limited lists of values for fields like name, gender, ethnicity and more
 don't often work in real
 life. [W3C](https://www.w3.org/International/questions/qa-personal-names)
 has a good write-up making the case for why names don't fit the schema
-of first name-last name for many people. Likewise with gender and
+of first name-last name for many people. One alternative they suggest
+is to ask for the full name in one text field, then ask how your users
+would like to you to call them in another field:
+
+![Screen capture of two fields on a form titled "Your Profile." The
+ first textbox is labeled 'Full name,' the second is labeled 'What
+ should we call you? (for example, when we send you mail?)'](images/profile-names.png)
+
+Likewise with gender and
 ethnicity, these are identities that people choose for ourselves, and
 we can change the way we think about them over the course of our
-lives. For more info, read this great [Model View
+lives.
+
+![Screen capture of a radio list form field labeled 'Gender.' The only
+ two options are 'Male' and 'Female.' Neither value is selected and an
+bright red alert appears that says 'Gender is required.'](images/gender-rdio.png)
+
+![Screen capture of a text form field labeled 'Your gender.'](images/gender-diaspora.png)
+
+For more info, read this great [Model View
 Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
 piece.
 
@@ -19,8 +35,7 @@ Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-di
 and a good example of a Code of Conduct by [Hypatia Software
 Organization](http://hypatiasoftware.org/code-of-conduct/).
 
-### Be clear on why we're collecting each piece of data and what we’re
-    doing with it
+### Be clear on why we're collecting each piece of data and what we’re doing with it
 
 ### Non-gendered, non-raced user icons
 Some good examples are Twitter's egg:
@@ -43,7 +58,7 @@ Flickr's camera default user icon--an illustration of a different type
 of camera done in different colors:
 
 ![Screen capture of a Flickr user's icon that doesn't have an image
- set for it.](images/fickr-camera.png)
+ set for it.](images/flickr-camera.png)
 
 Wordpress's default user icon--a symetrical, geometrical pattern of
 polygons done in a different bright color for each user:
