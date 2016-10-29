@@ -31,7 +31,9 @@ included below.
 # Details
 
 ## Are your sign-up forms respectful of people outside the norms of names, gender, sexuality, relationships and ethnicity?
+
 **Collect all user data in changeable, free-form text fields**
+
 Limited lists of values for fields like name, gender, ethnicity and more
 don't often work in real
 life. [W3C](https://www.w3.org/International/questions/qa-personal-names)
@@ -59,8 +61,10 @@ Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
 piece.
 
 ## What data are you collecting? Do you really need to be collecting it? Does the project respect the privacy of users?
+
 **Be clear on why you're collecting each piece of data and what you’re
 doing with it**
+
 Privacy of users in particularly important for online visitors in
 another country looking at content that might be considered restricted
 in their country of origin - gay rights, political content, etc).
@@ -68,7 +72,9 @@ in their country of origin - gay rights, political content, etc).
 ## Why are you collecting each piece of data? Is your intention conveyed to users?
 
 ## If you collect comments that will be made public, do you have guidelines for discourse in place?
+
 **Establish guidelines for discourse on-line**
+
 See the [Contributor Covenant](http://contributor-covenant.org), [The
 Universal Rules of Civilized
 Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-discourse/),
@@ -76,7 +82,9 @@ and a good example of a Code of Conduct by [Hypatia Software
 Organization](http://hypatiasoftware.org/code-of-conduct/).
 
 ## Do icons, photos, etc. assume things about gender or race of users?
+
 **Non-gendered, non-raced user icons**
+
 Here are some good examples from Twitter, iPhone, Slack, Flickr and Wordpress:
 
 ![Screen capture of a Twitter user photo that hasn't been set yet. It
@@ -92,6 +100,7 @@ of camera done in different colors.](images/flickr-camera.png) ![Screen capture 
 polygons done in a different bright color for each user.](images/wordpress-geometrics.png)
 
 ## Have you staged any photos that inaccurately reflect the diversity of your visitorship or staff?
+
 **Don't stage false diverse photographs**
 
 ![Screen capture of the homepage of NOMA's online
@@ -102,17 +111,22 @@ Inspiration porn of images of people with disabilities in museums also
 falls into this category.
 
 ## Have you been sure not to make business decisions based solely on existing analytics? Do you have a clear plan on how to measure the business decisions you've made, through analytics or otherwise?
+
 **When using analytics: Decide, then act, then measure. Don't measure,
 then decide, then act.**
 
 ## What modes of communication do your teams use? Is that working for everyone?
+
 **Consider and critique modes of communication: face-to-face, e-mail**
 
 ## Is the project accessible to older people, younger people, people without disabilities, and people with disabilities?
+
 **Implement Universal Design and Learning**
 
 ## Is all the writing, including curatorial content, at an accessible reading level?
+
 **Check the readability grade level of your text**
+
 Use services like [this one](https://readability-score.com/) to see
 what grade level is of the text in your project. Is all above a high
 school reading level? Is that ok?
