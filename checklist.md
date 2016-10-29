@@ -20,9 +20,8 @@ lives.
 
 ![Screen capture of a radio list form field labeled 'Gender.' The only
  two options are 'Male' and 'Female.' Neither value is selected and an
-bright red alert appears that says 'Gender is required.'](images/gender-rdio.png)
-
-![Screen capture of a text form field labeled 'Your gender.'](images/gender-diaspora.png)
+bright red alert appears that says 'Gender is
+ required.'](images/gender-rdio.png) ![Screen capture of a text form field labeled 'Your gender.'](images/gender-diaspora.png)
 
 For more info, read this great [Model View
 Culture](https://modelviewculture.com/pieces/the-argument-for-free-form-input)
