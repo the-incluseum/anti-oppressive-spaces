@@ -32,7 +32,8 @@ religion, caste, age, nationality and others interact on multiple and
 often simultaneous levels. We should think of each element or trait of
 a person as inextricably linked with all of the other elements in
 order to fully understand one's identity. The term was first coined by
-critical race theorist Kimberlé Williams Crenshaw in the late 1980s.
+critical race theorist Kimberlé Williams Crenshaw in the late
+1980s. Read some of Crenshaw's talk at TEDWomen 2016 [here](http://blog.ted.com/the-urgency-of-intersectionality-kimberle-crenshaw-speaks-at-tedwomen-2016/).
 
 ## Community
 Often seen as a codeword for talking about people of

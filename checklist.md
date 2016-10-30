@@ -12,7 +12,7 @@ included below.
   the privacy of users?
 - If you collect comments that will be made public, do you have
   guidelines for discourse in place?
-- Do icons, photos, etc. assume things about gender or race of users?
+- Do icons, photos, etc. assume things about gender, race or ability of users?
 - Have you staged any photos that inaccurately reflect the diversity
   of your visitorship or staff?
 - Have you been sure not to make business decisions based solely on existing analytics? Do you have a
@@ -64,11 +64,12 @@ doing with it**
 
 Privacy of users in particularly important for online visitors in
 another country looking at content that might be considered restricted
-in their country of origin - gay rights, political content, etc).
+in their country of origin - gay rights, political content, etc). Read
+more on why privacy is important by Cory Doctorow [here](https://www.theguardian.com/technology/2008/jan/15/data.security).
 
 ## If you collect comments that will be made public, do you have guidelines for discourse in place?
 
-**Establish guidelines for discourse on-line**
+**Establish guidelines for discourse online**
 
 See the [Contributor Covenant](http://contributor-covenant.org), [The
 Universal Rules of Civilized
@@ -76,9 +77,9 @@ Discourse](http://blog.discourse.org/2013/03/the-universal-rules-of-civilized-di
 and a good example of a Code of Conduct by [Hypatia Software
 Organization](http://hypatiasoftware.org/code-of-conduct/).
 
-## Do icons, photos, etc. assume things about gender or race of users?
+## Do icons, photos, etc. assume things about gender, race or ability of users?
 
-**Non-gendered, non-raced user icons**
+**Use non-gendered, raced, or abled user icons**
 
 Here are some good examples from Twitter, iPhone, Slack, Flickr and Wordpress:
 
