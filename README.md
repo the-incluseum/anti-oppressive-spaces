@@ -6,9 +6,9 @@ you'll find:
 
 - [Checklist](checklist.md) - This contains the bulk of the info we're presenting.
 - [Ideas](ideas.md) - Contains some bigger ideas we advocate for.
+- [Tools](tools.md) - Additional tools you may find helpful.
 - [Definitions](definitions.md) - We've defined some of the terms we
   use here.
-- [Tools](tools.md) - Additional tools you may find helpful.
 
 ## Get involved
 
@@ -18,7 +18,7 @@ feedback. There are lots of ways to get involved!
 
 ### Reach out to one of the contributors
 You can ping any of us on Twitter to chat about your ideas. Our
-contact info is below.
+contact info is below under [Contributors](#contributors).
 
 ### Create an [issue](issues)
 All our conversations will eventually make their way to this project
@@ -36,29 +36,24 @@ added to the main content.
 
 ## Contributors
 
-Sina Bahram
-Prime Access Consulting
-[@SinaBahram](http://www.twitter.com/SinaBahram)
-
-Eric Gardner
-Getty Museum
-[@ecgardner](http://www.twitter.com/ecgardner)
-
-Sarita Hernandez
-Fwd: Museums Journal
-[@FwdMuseums](http://www.twitter.com/FwdMuseums)
-
-fari nzinga
-Southern University at New Orleans, Createquity
-[@fari_nzinga](http://www.twitter.com/fari_nzinga)
-
-Trish Oxford
-Trish Oxford Media
-[@TrishOxford](http://www.twitter.com/TrishOxford)
-
-nikhil trivedi
-A museum in Chicago
-[@nikhiltri](http://www.twitter.com/nikhiltri)
+- Sina Bahram
+  Prime Access Consulting
+  [@SinaBahram](http://www.twitter.com/SinaBahram)
+- Eric Gardner
+  Getty Museum
+  [@ecgardner](http://www.twitter.com/ecgardner)
+- Sarita Hernandez
+  Fwd: Museums Journal
+  [@FwdMuseums](http://www.twitter.com/FwdMuseums)
+- fari nzinga
+  Southern University at New Orleans, Createquity
+  [@fari_nzinga](http://www.twitter.com/fari_nzinga)
+- Trish Oxford
+  Trish Oxford Media
+  [@TrishOxford](http://www.twitter.com/TrishOxford)
+- nikhil trivedi
+  A museum in Chicago
+  [@nikhiltri](http://www.twitter.com/nikhiltri)
 
 ## About
 This repository was developed in conjunction with the panel _Creating Anti-Oppressive Spaces Online_ at the [2016 meeting of the Museum Computer Network](http://conference.mcn.edu/2016/index.cfm).
