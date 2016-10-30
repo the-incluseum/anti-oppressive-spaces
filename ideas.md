@@ -1,4 +1,4 @@
-# Broader ideas
+# Ideas
 
 ## Create relationships and co-create with people of color
 Share institutional power. People of color are going to create content
