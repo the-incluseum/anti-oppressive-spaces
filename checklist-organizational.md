@@ -44,7 +44,8 @@ to a unique context.
     same way or understand them the same way? What new words/concepts are tools
     useful to your work?
 
-## Context Specific Values:
+## Context Specific Values: 
+> This is a set of lists focused around different functions related to roles that individuals have responsibility for in museums....
 
 ### SPATIAL/INTERPERSONAL/CURATORIAL
 > Within Design (Architectural, Graphic), Exhibits, Collecting, Programs, Events (All Ages):
