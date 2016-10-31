@@ -79,5 +79,5 @@ This repository began with the Tech Project Checklist that was developed in conj
 > Does your sign-up form reinforce binary notions of gender? Does your latest web project unintentionally exclude visitors with different abilities, or from different backgrounds? Many of us are interested in creating anti-oppressive spaces in our work--those that share power more equitably, are representative of the places our institutions reside, and account for the traumatic histories that allowed many of our institutions to be established. This brainstorming session will look at existing spaces that have thought well in this area, and radically imagine what might be possible in the future. Attendees will walk away with a number of concrete ideas that they can apply to their current and future projects, which in incremental ways will push our sector towards a more just future that centers more and more people.
 
 At the same time, The Incluseum was working on a similar effort, which has
-become the Organization Checklist. Because of the overlap in our efforts, we
+become the Organizational Checklist. Because of the overlap in our efforts, we
 decided to combine our work.
