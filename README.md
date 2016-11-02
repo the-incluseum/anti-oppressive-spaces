@@ -18,6 +18,8 @@ you'll find:
 - [Tools](tools.md) - Additional tools you may find helpful.
 - [Definitions](definitions.md) - We've defined some of the terms we
   use here.
+- [A PDF handout](downloads/handout.pdf) which includes the tech project checklist and
+  defninitions of terms, ready to print & distribute.
 
 ## Get involved
 
