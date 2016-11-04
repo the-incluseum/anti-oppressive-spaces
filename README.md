@@ -6,7 +6,7 @@
 # Creating Anti-Oppressive Spaces in Museums
 
 This project contains a set of tools that museum workers can use to
-ensure that our oganizations and projects remain as inclusive as possible. Here's what
+ensure that our organizations and projects remain as inclusive as possible. Here's what
 you'll find:
 
 - Checklists - These contains the bulk of the info we're presenting.
