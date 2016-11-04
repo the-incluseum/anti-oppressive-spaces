@@ -23,7 +23,7 @@ you'll find:
 
 ## Get involved
 
-We see this very much as a work in process, and we're happy to do so
+We see this very much as a work in progress, and we're happy to do so
 openly. We're always open to your suggestions, criticism and
 feedback. There are lots of ways to get involved!
 
