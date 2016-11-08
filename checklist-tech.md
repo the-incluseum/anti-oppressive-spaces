@@ -62,7 +62,7 @@ piece.
 **Be clear on why you're collecting each piece of data and what you’re
 doing with it**
 
-Privacy of users in particularly important for online visitors in
+Privacy of users is particularly important for online visitors in
 another country looking at content that might be considered restricted
 in their country of origin - gay rights, political content, etc). Read
 more on why privacy is important by Cory Doctorow [here](https://www.theguardian.com/technology/2008/jan/15/data.security).
