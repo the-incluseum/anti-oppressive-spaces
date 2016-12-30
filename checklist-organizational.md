@@ -1,5 +1,5 @@
 # ENACTING INCLUSION
-> A Pathway Towards an Inclusive Museum
+> Pathways Towards an Inclusive Museum
 
 ## A Cross-Contextual Approach:
 
@@ -11,8 +11,9 @@ Whether you are working in/with:
 
 The following sections should speak to functions and contexts that you are
 familiar with in your day-to-day experience of a physical museum environment. 
-The first section, "Shared Values" includes evaluation items that apply across every context 
-mentioned above, while the following sections group items that are context specific. 
+The first section, "Shared Values," includes evaluation items that apply across every context 
+mentioned above, while the following sections group items by functions that 
+may apply to one or more of the contexts listed above. 
 This is not to say that fulfilling each of these aspects of inclusion
 will look/feel the same in every institution. Far from it. However, these items
 can act as basic values from which to build an intentional, inclusive response
@@ -44,8 +45,6 @@ to a unique context.
     Where do they come from? Does everyone in your organization use the words the
     same way or understand them the same way? What new words/concepts are tools
     useful to your work?
-
-## Context Specific Values:
 
 ### SPATIAL/INTERPERSONAL/CURATORIAL
 > Within Design (Architectural, Graphic), Exhibits, Collecting, Programs, Events (All Ages):
