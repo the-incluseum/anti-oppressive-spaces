@@ -10,11 +10,12 @@ Whether you are working in/with:
 - Large Museum
 
 The following sections should speak to functions and contexts that you are
-familiar with in your day-to-day experience. While some of these evaluation
-items are context specific, some items apply across every context mentioned
-above. This is not to say that fulfilling each of these aspects of inclusion
+familiar with in your day-to-day experience of a physical museum environment. 
+The first section, "Shared Values" includes evaluation items that apply across every context 
+mentioned above, while the following sections group items that are context specific. 
+This is not to say that fulfilling each of these aspects of inclusion
 will look/feel the same in every institution. Far from it. However, these items
-can act as shared values from which to build an intentional, inclusive response
+can act as basic values from which to build an intentional, inclusive response
 to a unique context.
 
 ## Shared Values:
