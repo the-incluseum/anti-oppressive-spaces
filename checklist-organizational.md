@@ -111,32 +111,38 @@ to a unique context.
 ### ADMINISTRATIVE
 > Within HR/Executive/Board/CEO/Director:
 
-- Staff and Board are representative of individuals of marginalized
-  communities/Not Tokenized
-- Fair/Equitable Compensation for Advising, Interning, Art and other forms of Work
-- Family Leave
-- Provide/Participate in Cultural Competence or Other Staff Development Related to
-  Skill Building Around Empathy, Difference and Creating Safe Spaces
+- Staff and Board 
+  - Are representative of individuals of marginalized communities/Not Tokenized
+   - Emerging Talent Management Plan
+   - Provide/Participate in professional development related to
+  skill building around empathy, difference and creating safe spaces
   (i.e. anti-racism, anti-oppression, social justice focus)
-  - Sub-Group of Staff Cultural Competency Work if Applicable: White Privilege
-    - Do you have a space for white people to work out their questions, concerns and
+     - Sub-Group of Staff Development Work if Applicable: White Privilege
+      Do you have a space for white people to work out their questions, concerns and
       build their understanding of concepts like white privilege together? A space
       such as this can insure support for white people in becoming allies, while
       making sure that large group, multi-racial conversation about inclusion can
       de-center white voices.
-- Job Postings Address Equity, Acknowledge Privilege
-- Building Analysis of Economic Justice in Fundraising/Development
-- Building an Analysis of Bias in Hiring
-- Building Analysis of Institutional Legacies/Systems that Have Produced
+- Compensation 
+  - Fair/Equitable pay for advising, tnterning, art and other forms of Work
+  - Family Leave
+- Hiring
+  - Job Postings Address Equity, Acknowledge Privilege
+  - Building an Analysis of Bias in Hiring
+  - Hiring Focuses on Transferrable Skills - Avoids Vague Language Like “Qualified”
+- Fundraising/Development
+  - Build Analysis of Economic Justice
+  - Commit to divesting in companies that are not economically just, have unfair labor 
+  practices or engage in environmentally unjust practices
+- Organizational Structure
+  - Building Analysis of Institutional Legacies/Systems that Have Produced
   Collection, Staff Demographics, Building Design, Taxonomies, and Narratives
-  - Actively Dismantle those Elements that Replicate Unsafe Spaces for Visitors and
+    - Actively Dismantle those Elements that Replicate Unsafe Spaces for Visitors and
     Staff or which Center Whiteness
-- Building Analysis of Historical Legacies that Have Produced Current
-  Organizational Structure
-  - Actively Measure/Change the Effectiveness of Structure
-- Hiring Focuses on Transferrable Skills - Avoids Vague Language Like “Qualified”
-- Emerging Talent Management Plan
-- Public Space Protocol (Including Restrooms)
+  - Building Analysis of Historical Legacies that Have Produced Current
+    Organizational Structure
+    - Actively Measure/Change the Effectiveness of Structure
+- Create Public Space Protocol (Including for Restrooms)
    - Statement of Support
    - ADA Accessible
    - Gender Open
