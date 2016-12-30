@@ -125,12 +125,20 @@ to a unique context.
       such as this can insure support for white people in becoming allies, while
       making sure that large group, multi-racial conversation about inclusion can
       de-center white voices.
+- Volunteers/Interns
+  - You may have a lot of volunteers helping you with day-to-day operations and programs, 
+  especially if you are small instution. Make sure that your volunteer policy:
+    - does not discourage those who do not have time for intensive training programs
+    - does not discourage those who do not have experience working within an institutional structure
+    - encourages skill sharing on the terms of volunteers and values their expertise
+    - designates a budget for interns and those doing work that would otherwise be done by a qualified staff person
+    - intentionally seeks to recruit a pool of volunteers that come from different racial, ethnic, ability, age and economic backgrounds
 - Compensation 
   - Fair/Equitable pay for advising, tnterning, art and other forms of Work
   - Family Leave
 - Hiring
-  - Job Postings Address Equity, Acknowledge Privilege
-  - Building an Analysis of Bias in Hiring
+  - Job Postings Address Equity, Acknowledge Privilege in Applicant Pool
+  - Staff build an analysis of bias in hiring
   - Hiring Focuses on Transferrable Skills - Avoids Vague Language Like “Qualified”
 - Fundraising/Development
   - Build Analysis of Economic Justice
