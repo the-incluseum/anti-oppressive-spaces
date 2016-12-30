@@ -53,7 +53,7 @@ to a unique context.
 
 - Sensory Experiences
   - How do you honor different ways visitors sense or are able to sense content? 
-  - How has your online content been made accessible?
+  - How has your online content been made accessible? (See Anti-Oppressive Online Spaces Checklist)
   - Is your public space, program space and/or exhibit space scent-free? If not,
     consider a scent-free policy. This will also influence the selection of cleaning
     products. For artworks or interactives that have an olifactory element, make
@@ -67,7 +67,7 @@ to a unique context.
     make sure staff and visitors are given the opportunity to consent/opt into or opt 
     out of the experience. Post signs in the space and on your website about high and low sensory spaces.
 - Public Space Protocol (Including Restrooms)
-  - Statement of Support
+  - Statement of Support for communities experiencing oppression
   - ADA Accessible
   - Gender Open
     - Gender Neutral Language if Gender Isn’t Specified
@@ -80,27 +80,29 @@ to a unique context.
    - Captioning: Subtitles for Media
 
 ### PROFESSIONALIZATION
-> Within Courses/Higher Education/Professional Programs:
+> Within Courses/ Higher Education/ Professional Programs:
 
-- Provide/Participate in Cultural Competence or Other Staff Development Related to
-  Skill Building Around Empathy, Difference and Creating Safe Spaces
-  (i.e. anti-racism, anti-oppression, social justice focus)
-  - Sub-Group of staff Cultural Competency Work if Applicable: White Privilege
+- Staff, Faculty or Students
+  - Faculty and/or guest speakers are representative of individuals of marginalized
+  communities- Provide/Participate inopportunities to skill and awareness build around Empathy, 
+  Difference and Creating Safe Spaces (i.e. anti-racism, anti-oppression, social justice focus)
+  - Sub-Group if applicable: White Privilege
     - Do you have a space for white people to work out their questions, concerns and
       build their understanding of concepts like white privilege together? A space
       such as this can insure support for white people in becoming allies, while
       making sure that large group, multi-racial conversation about inclusion can
       de-center white voices.
-- Core course literature de-centers whiteness and is representative of academics
+- Recruitment
+  - Build Analysis of Applicant Selection Bias
+  - Accessible Online Recruitment Information (See Anti-Oppressive Online Spaces Checklist)
+- Course Content
+  - Core course literature de-centers whiteness and is representative of academics
   or writers of marginalized communities ( ie racial, ethnic, ability, sexuality
   and gender etc.)
-- Faculty and/or guest speakers are representative of individuals of marginalized
-  communities
-- Build an Analysis of how Professionalization Impacts the Field
-- Build Analysis of Applicant Selection Bias
-- Accessible Online Recruitment Information
+- Organizational Structure
+  - Build an Analysis of how Professionalization impacts the field
 - Public Space Protocol (Including Restrooms)
-   - Statement of Support
+   - Statement of Support for communities experiencing oppression
    - ADA Accessible
    - Gender Open
      - Gender Neutral Language if Gender Isn’t Specified
@@ -113,8 +115,8 @@ to a unique context.
 
 - Staff and Board 
   - Are representative of individuals of marginalized communities/Not Tokenized
-   - Emerging Talent Management Plan
-   - Provide/Participate in professional development related to
+  - Develop Emerging Talent Management Plan
+  - Provide/Participate in professional development related to
   skill building around empathy, difference and creating safe spaces
   (i.e. anti-racism, anti-oppression, social justice focus)
      - Sub-Group of Staff Development Work if Applicable: White Privilege
@@ -143,7 +145,7 @@ to a unique context.
     Organizational Structure
     - Actively Measure/Change the Effectiveness of Structure
 - Create Public Space Protocol (Including for Restrooms)
-   - Statement of Support
+   - Statement of Support for communities experiencing oppression
    - ADA Accessible
    - Gender Open
      - Gender Neutral Language if Gender Isn’t Specified
