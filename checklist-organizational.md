@@ -40,40 +40,44 @@ to a unique context.
 - Community Asset Driven
   - Community Listening Focus
   - Communities grouped as status/identity specific not viewed as monolithic
+  - Cocreation viewed as core method of content generation
+  - How are you transparent in your interactions with communities and in how you represent yourself publically?
 - Building Staff Analysis of Inclusion Vocabulary
   - What words do you use to describe or talk about inclusion in your institution?
     Where do they come from? Does everyone in your organization use the words the
     same way or understand them the same way? What new words/concepts are tools
-    useful to your work?
+    useful to your work? 
 
 ### SPATIAL/INTERPERSONAL/CURATORIAL
 > Within Design (Architectural, Graphic), Exhibits, Collecting, Programs, Events (All Ages):
 
-- Collaborative Process
-- Cross-Sensory experiences
-- Quiet Spaces
-- Accessible Online Promotional Information
-- ADA Accessible - Space and Bathrooms
-- Gender Open Restrooms
-- Gender Neutral Language if Gender Isn’t Specified
-- Create Space for Individuals to Share Pronouns if Desired
-- Baby Changing Space
-- Nursing / Breastfeeding / Pumping space and/or Childcare Provided
-- Scent-Free Space
-  - Is your public space, program space and exhibit space scent-free? If not,
+- Sensory Experiences
+  - How do you honor different ways visitors sense or are able to sense content? 
+  - How has your online content been made accessible?
+  - Is your public space, program space and/or exhibit space scent-free? If not,
     consider a scent-free policy. This will also influence the selection of cleaning
     products. For artworks or interactives that have an olifactory element, make
     sure that visitors and staff are given the opportunity to consent/ opt into or
-    out of that experience. Post signs in the space and on your website.
-- Space planning for Visitors on the Autism Spectrum
-  - Is your public space, program space and exhibit space low-sensory? If not,
-    consider a low-sensory policy. For artworks or interactive components with high
-    or multi-sensory elements, make sure staff and visitors are given the
-    opportunity to consent/ opt-in opt out of the experience. Post signs in the
-    space and on your website.
-- Multi-Lingual or ASL Interpretation
-- Captioning: Subtitles for Media
-- Teleconferencing/Livecasting
+    out of that experience. Post signs in the space and on your website about 
+    spaces that are or are not scent free.
+   - Is your public space, program space and/or exhibit space low-sensory? If not,
+    consider a low-sensory policy. This may tie in with institutional planning around
+    serving visitors on the autism spectrum. Are there designated quiet spaces? 
+    For artworks or interactive components with high or multi-sensory elements, 
+    make sure staff and visitors are given the opportunity to consent/opt into or opt 
+    out of the experience. Post signs in the space and on your website about high and low sensory spaces.
+- Public Space Protocol (Including Restrooms)
+  - Statement of Support
+  - ADA Accessible
+  - Gender Open
+    - Gender Neutral Language if Gender Isn’t Specified
+    - Create Space for Individuals to Share Pronouns if Desired
+  - Baby Changing Space
+  - Nursing / Breastfeeding / Pumping space and/or Childcare Provided
+ - Language 
+   - ASL Interpretation
+   - Policy for ongoing evaluation around adding exhibit and material translations
+   - Captioning: Subtitles for Media
 
 ### PROFESSIONALIZATION
 > Within Courses/Higher Education/Professional Programs:
@@ -93,16 +97,16 @@ to a unique context.
 - Faculty and/or guest speakers are representative of individuals of marginalized
   communities
 - Build an Analysis of how Professionalization Impacts the Field
-- Cross-Sensory experiences
 - Build Analysis of Applicant Selection Bias
-- Accessible Online Promotional/recruitment Information
-- ADA Accessible - Space and Bathrooms
-- Gender Open Restrooms
-- Gender Neutral Language if Gender Isn’t Specified
-- Create Space for Individuals to Share Pronouns if Desired
-- Baby Changing Space
-- Nursing / Breastfeeding / Pumping space and/or Childcare Provided
-- Scent-Free Space
+- Accessible Online Recruitment Information
+- Public Space Protocol (Including Restrooms)
+   - Statement of Support
+   - ADA Accessible
+   - Gender Open
+     - Gender Neutral Language if Gender Isn’t Specified
+     - Create Space for Individuals to Share Pronouns if Desired
+  - Baby Changing Space
+  - Nursing / Breastfeeding / Pumping space and/or Childcare Provided
 
 ### ADMINISTRATIVE
 > Within HR/Executive/Board/CEO/Director:
@@ -132,3 +136,11 @@ to a unique context.
   - Actively Measure/Change the Effectiveness of Structure
 - Hiring Focuses on Transferrable Skills - Avoids Vague Language Like “Qualified”
 - Emerging Talent Management Plan
+- Public Space Protocol (Including Restrooms)
+   - Statement of Support
+   - ADA Accessible
+   - Gender Open
+     - Gender Neutral Language if Gender Isn’t Specified
+     - Create Space for Individuals to Share Pronouns if Desired
+  - Baby Changing Space
+  - Nursing / Breastfeeding / Pumping space and/or Childcare Provided
