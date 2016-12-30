@@ -86,7 +86,7 @@ to a unique context.
   - Faculty and/or guest speakers are representative of individuals of marginalized
   communities- Provide/Participate inopportunities to skill and awareness build around Empathy, 
   Difference and Creating Safe Spaces (i.e. anti-racism, anti-oppression, social justice focus)
-  - Sub-Group if applicable: White Privilege
+  - White Privilege Sub-Group if applicable: 
     - Do you have a space for white people to work out their questions, concerns and
       build their understanding of concepts like white privilege together? A space
       such as this can insure support for white people in becoming allies, while
@@ -119,7 +119,7 @@ to a unique context.
   - Provide/Participate in professional development related to
   skill building around empathy, difference and creating safe spaces
   (i.e. anti-racism, anti-oppression, social justice focus)
-     - Sub-Group of Staff Development Work if Applicable: White Privilege
+     - White Privilege Sub-Group if Applicable: 
       Do you have a space for white people to work out their questions, concerns and
       build their understanding of concepts like white privilege together? A space
       such as this can insure support for white people in becoming allies, while
