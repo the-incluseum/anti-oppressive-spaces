@@ -131,7 +131,7 @@ to a unique context.
     - does not discourage those who do not have time for intensive training programs
     - does not discourage those who do not have experience working within an institutional structure
     - encourages skill sharing on the terms of volunteers and values their expertise
-    - designates a budget for interns and those doing work that would otherwise be done by a qualified staff person
+    - designates a budget for interns and those doing work that would otherwise be done by a staff person
     - intentionally seeks to recruit a pool of volunteers that come from different racial, ethnic, ability, age and economic backgrounds
 - Compensation 
   - Fair/Equitable pay for advising, tnterning, art and other forms of Work
