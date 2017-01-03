@@ -52,7 +52,7 @@ to a unique context.
 > Within Design (Architectural, Graphic), Exhibits, Collecting, Programs, Events (All Ages):
 
 - Sensory Experiences
-  - How do you honor different ways visitors sense or are able to sense content? 
+  - How do you honor different ways visitors sense content? 
   - How has your online content been made accessible? (See Anti-Oppressive Online Spaces Checklist)
   - Is your public space, program space and/or exhibit space scent-free? If not,
     consider a scent-free policy. This will also influence the selection of cleaning
