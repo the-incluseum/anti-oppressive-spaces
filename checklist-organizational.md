@@ -76,7 +76,7 @@ to a unique context.
   - Nursing / Breastfeeding / Pumping space and/or Childcare Provided
  - Language 
    - ASL Interpretation
-   - Policy for ongoing evaluation around adding exhibit and material translations
+   - Policy for ongoing evaluation around adding exhibit text and publication language translations
    - Captioning: Subtitles for Media
 
 ### PROFESSIONALIZATION
@@ -137,9 +137,10 @@ to a unique context.
   - Fair/Equitable pay for advising, tnterning, art and other forms of Work
   - Family Leave
 - Hiring
-  - Job Postings Address Equity, Acknowledge Privilege in Applicant Pool
-  - Staff build an analysis of bias in hiring
-  - Hiring Focuses on Transferrable Skills - Avoids Vague Language Like “Qualified”
+  - Job Postings let applicants know what work the institution is doing to create a anti-oppressive work culture
+  - Job Postings let applicants know what the pay range is
+  - Postings value transferrable skills such as languages, community organizing experience, childcare, & eldercare as indicating core competencies to museum work and not just complimentary 
+  - Hiring staff build analysis of bias in hiring through training
 - Fundraising/Development
   - Build Analysis of Economic Justice
   - Commit to divesting in companies that are not economically just, have unfair labor 
