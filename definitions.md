@@ -46,3 +46,10 @@ one's sex, gender and sexual orientation are by default aligned. For
 example, someone assigned male at birth would be assumed masculine in
 appearance, behavior and character traits, including a heterosexual
 attraction to those assigned female at birth.
+
+## Accessibility
+The idea that sites--real and virtual--should be easily accessible to all,
+regardless of any physical, visual, or cognitive impairment. Accessibility
+is often seen as an item to check off towards the end of the design process,
+especially in building digital sites and applications, instead of being an
+integral part of the process from the start.
